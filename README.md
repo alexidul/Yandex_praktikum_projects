@@ -1,2 +1,2 @@
 # learn_projects
-Portfolio of my lear projects (by Yandex.Praktikum data-analyses courses)
+Portfolio of my learning projects (by Yandex.Praktikum data-analyses courses)
