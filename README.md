@@ -6,4 +6,3 @@ Portfolio of my learning projects (by Yandex.Praktikum data-analyses courses)
 | 2 | [Анализ рынка компьютерных игр (1980-2016)](https://github.com/alexidul/learn_projects/blob/main/Project_2/Изучение_закономерностей_определяющих_успешность_игр.ipynb) | Выявляем и визуализируем закономерности, определявшие успешность комп. игр | Python, Pandas, NumPy, Matplotlib, SciPy, предобработка данных, исследовательский анализ данных, описательная статистика, проверка статистических гипотез |
 | 3 | [Продуктовая аналитика (тест для Yandex)](https://github.com/alexidul/learn_projects/blob/main/Project_3/Тестовое_задание_продуктовый_аналитик_Yandex.ipynb) | Расчёт и визуализация продуктовых метрик на базе данных о поведении пользователей в игровом приложении| Python, Pandas, NumPy, Matplotlib, Plotly, предобработка данных, исследовательский анализ данных |
 | 4 | Four |  | 四 |
-| 5 | Five |  | 四 |
